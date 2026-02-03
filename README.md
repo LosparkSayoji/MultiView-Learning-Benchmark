@@ -1,2 +1,2 @@
-# MultiView-MultiOmics-HeterogeneousGraph-Datasets
-Ready-to-use Datasets &amp; Benchmarks for Multi-view, Multi-omics, and Heterogeneous Graph learning. Features unified data formats and easy-to-use loaders for deep learning research.
+# MultiView-Learning-Benchmark
+A clean, modular, and extensible benchmark platform for Multi-View Learning (MVL). This repository provides standardized implementations of various baseline models—including GCN, MLP, and Transformer architectures—to facilitate research and comparative analysis in multi-view representation learning.
