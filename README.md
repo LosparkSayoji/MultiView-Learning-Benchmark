@@ -2,7 +2,7 @@
 
 # MultiView Learning Benchmark
 
-A lightweight benchmark for multi-view learning, providing datasets and baseline implementations based on MLP, GCN, and Transformer.
+A lightweight PyTorch benchmark for multi-view learning, providing dataset utilities and baseline implementations based on MLP, GCN, and Transformer.
 
 
 </div>
